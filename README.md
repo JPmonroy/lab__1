@@ -8,5 +8,8 @@
 - Esta encerrado dentro de un div 
 - La caga div se transforma 
 - Un boton para crear el efecto 
+
+- Al momento de hacer click al boton el cudro div se hara mas pequeño y cambiara de color asi podemos observar como funciona el envento click 
+- Fue desarrollado con html, css y JavaScrip
 ###### Vista 
 https://jpmonroy.github.io/lab__1/ejemplo.html
